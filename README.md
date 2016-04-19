@@ -1,3 +1,3 @@
 # Tutorial readme
-Tutorial Stuff. With lots of bananas. And things. And so on.
-Just started and already found weirdly complicated stuff :/
+Already finished the tutorial :D
+But I will save this so I can try things out safely.
